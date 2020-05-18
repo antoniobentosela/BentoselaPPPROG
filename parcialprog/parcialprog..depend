@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589806031 source:c:\users\sabrina\desktop\parcialprog.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589806368 source:c:\users\sabrina\desktop\parcialprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
